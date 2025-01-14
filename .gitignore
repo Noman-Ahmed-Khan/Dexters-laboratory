@@ -1,0 +1,23 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Build and cache directories
+/dist/
+/build/
+/out/
+/tmp/
+.cache/
+
+# Dependency directories
+/node_modules/
+/vendor/
